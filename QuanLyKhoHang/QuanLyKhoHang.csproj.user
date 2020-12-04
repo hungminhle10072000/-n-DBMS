@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\frmCaNhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\frmMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\NhanVien\frmChiTietNhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\NhanVien\frmChiTietXuatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\NhanVien\frmLuuKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\NhanVien\frmNhanVienManHinhChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\NhanVien\frmNvKiemKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\NhanVien\frmNvNhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\NhanVien\frmNvXuatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QuanLy\frmQlNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QuanLy\QuanLyThongKe\frmThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QuanLy\QuanLyTonKho\frmQlHangTonKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QuanLy\QuanLyKiemKe\frmKiemKeTheoDonNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QuanLy\QuanLyKiemKe\frmKiemKeTheoMatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QuanLy\QuanLyKiemKe\frmKiemKeToanBo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QuanLy\QuanLyKiemKe\frmDatLichKiemKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QuanLy\QuanLyKiemKe\frmKiemKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QuanLy\QuanLyMatHang\frmChiTietMatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QuanLy\QuanLyMatHang\frmDanhSachMatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QuanLy\QuanLyXuatHang\frmQlThemDonXuatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QuanLy\QuanLyXuatHang\frmQlChiTietDonXuatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QuanLy\QuanLyNhapHang\frmChiTietDonNhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QuanLy\QuanLyNhapHang\frmQLNhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QuanLy\QuanLyXuatHang\frmQlXuatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QuanLy\frmQuanLyManHinhChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QuanLy\QuanLyNhapHang\frmThemDonNhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
