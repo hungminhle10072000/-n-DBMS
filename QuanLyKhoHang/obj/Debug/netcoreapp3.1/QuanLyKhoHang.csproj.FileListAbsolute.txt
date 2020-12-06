@@ -162,3 +162,6 @@ C:\Users\PC\Desktop\HQTCSDL-QuanLyKhoHang\QuanLyKhoHang\bin\Debug\netcoreapp3.1\
 C:\Users\PC\Desktop\HQTCSDL-QuanLyKhoHang\QuanLyKhoHang\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\PC\Desktop\HQTCSDL-QuanLyKhoHang\QuanLyKhoHang\obj\Debug\netcoreapp3.1\QuanLyKhoHang.csproj.CopyComplete
 C:\Users\PC\Desktop\HQTCSDL-QuanLyKhoHang\QuanLyKhoHang\obj\Debug\netcoreapp3.1\QuanLyKhoHang.genruntimeconfig.cache
+C:\Users\PC\Desktop\-n-DBMS\QuanLyKhoHang\obj\Debug\netcoreapp3.1\QuanLyKhoHang.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\-n-DBMS\QuanLyKhoHang\obj\Debug\netcoreapp3.1\QuanLyKhoHang.dll
+C:\Users\PC\Desktop\-n-DBMS\QuanLyKhoHang\obj\Debug\netcoreapp3.1\QuanLyKhoHang.pdb

@@ -18,7 +18,7 @@ namespace QuanLyKhoHang.Views.NhanVien
 
         private void btnNhapHang_Click(object sender, EventArgs e)
         {
-            AddChild(new frmNvNhapHang(this));
+            AddChild(new frmChiTietNhapHang(this));
         }
         public void AddChild(Form form)
         {
